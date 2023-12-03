@@ -1,0 +1,60 @@
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\bin\Debug\net6.0\ASPCoreApplication2023.exe
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\bin\Debug\net6.0\ASPCoreApplication2023.dll
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\bin\Debug\net6.0\appsettings.json
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\bin\Debug\net6.0\ASPCoreApplication2023.staticwebassets.runtime.json
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.AssemblyInfoInputs.cache
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.AssemblyInfo.cs
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.RazorAssemblyInfo.cache
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.RazorAssemblyInfo.cs
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\staticwebassets\msbuild.ASPCoreApplication2023.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCoreApplication2023.props
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreApplication2023.props
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCoreApplication2023.props
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\scopedcss\bundle\ASPCoreApplication2023.styles.css
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\scopedcss\projectbundle\ASPCoreApplication2023.bundle.scp.css
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.dll
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\refint\ASPCoreApplication2023.dll
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.pdb
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\bin\Debug\net6.0\ASPCoreApplication2023.deps.json
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\bin\Debug\net6.0\ASPCoreApplication2023.runtimeconfig.json
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\bin\Debug\net6.0\ASPCoreApplication2023.pdb
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.genruntimeconfig.cache
+C:\Users\mahdi\OneDrive\Bureau\Compte Rendu .NET\ASPCoreApplication2023\ASPCoreApplication2023\obj\Debug\net6.0\ref\ASPCoreApplication2023.dll
+D:\dotnet\TP1\ASPCoreApplication2023\bin\Debug\net6.0\appsettings.Development.json
+D:\dotnet\TP1\ASPCoreApplication2023\bin\Debug\net6.0\appsettings.json
+D:\dotnet\TP1\ASPCoreApplication2023\bin\Debug\net6.0\ASPCoreApplication2023.staticwebassets.runtime.json
+D:\dotnet\TP1\ASPCoreApplication2023\bin\Debug\net6.0\ASPCoreApplication2023.exe
+D:\dotnet\TP1\ASPCoreApplication2023\bin\Debug\net6.0\ASPCoreApplication2023.deps.json
+D:\dotnet\TP1\ASPCoreApplication2023\bin\Debug\net6.0\ASPCoreApplication2023.runtimeconfig.json
+D:\dotnet\TP1\ASPCoreApplication2023\bin\Debug\net6.0\ASPCoreApplication2023.dll
+D:\dotnet\TP1\ASPCoreApplication2023\bin\Debug\net6.0\ASPCoreApplication2023.pdb
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.AssemblyInfoInputs.cache
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.AssemblyInfo.cs
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.csproj.CoreCompileInputs.cache
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.RazorAssemblyInfo.cache
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.RazorAssemblyInfo.cs
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\staticwebassets\msbuild.ASPCoreApplication2023.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCoreApplication2023.props
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreApplication2023.props
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCoreApplication2023.props
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\staticwebassets.pack.json
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\staticwebassets.build.json
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\staticwebassets.development.json
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\scopedcss\bundle\ASPCoreApplication2023.styles.css
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\scopedcss\projectbundle\ASPCoreApplication2023.bundle.scp.css
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.dll
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\refint\ASPCoreApplication2023.dll
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.pdb
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\ASPCoreApplication2023.genruntimeconfig.cache
+D:\dotnet\TP1\ASPCoreApplication2023\obj\Debug\net6.0\ref\ASPCoreApplication2023.dll
